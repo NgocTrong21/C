@@ -4,7 +4,7 @@
 using namespace std;
 struct Stack
 {
-	int capacity;
+	int capacity;//thu git
 	int top;
 	int* array;
 };
