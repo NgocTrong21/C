@@ -3,7 +3,7 @@
 using namespace std;
 struct Tree
 {
-int Data[max];   
+int Data[max];   //thay thu de test git
 int MaxNode;
 };
 void swap(int &a, int &b)
